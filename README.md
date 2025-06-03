@@ -94,5 +94,5 @@ Users can filter data by city and room type for customized analysis.
 - Support revenue management, pricing, and operational decisions with real-time insights.
 
 ---
+![image](https://github.com/user-attachments/assets/8b070f14-d1a8-4ec0-a857-5401d6f9ea93)
 
-![Dashboard Preview].(https://github.com/mridulk2004/Hospitality-Domain/blob/main/Hospitatlity%20Domain%20Dashboard.png)
